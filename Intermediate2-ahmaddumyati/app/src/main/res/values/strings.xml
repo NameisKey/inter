@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="text_name">Name</string>
+    <string name="text_email" translatable="false">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_detail">Story Detail</string>
+    <string name="text_upload">Upload</string>
+    <string name="text_camera">Camera</string>
+    <string name="text_gallery">Gallery</string>
+    <string name="text_choose_picture">Choose a Picture</string>
+    <string name="text_reload">Reload</string>
+    <string name="text_add_story">Add New Story</string>
+    <string name="text_location">Location</string>
+    <string name="text_loading">Loading</string>
+    <string name="text_maps">Maps</string>
+    <string name="error_submit_register">Name, email, or password is invalid</string>
+
+    <string name="success_add_story">Successfully posted new story</string>
+    <string name="success_register">Successfully created account</string>
+
+    <string name="error_insert_file">Please insert the Picture first</string>
+    <string name="error_password_minimum">Please submit your password must be minimum %1$d characters</string>
+    <string name="error_email_invalid">Email format is invalid</string>
+    <string name="error_field_invalid">Field cannot be empty</string>
+    <string name="error_submit_login">Email or password is invalid</string>
+    <string name="error_register_failed">Failed to create account</string>
+    <string name="error_failed_login">Email or password is incorrect</string>
+    <string name="error_server">Unable to connect to server</string>
+    <string name="error_story_failed">Failed to fetch stories</string>
+    <string name="error_story_not_found">No story available</string>
+    <string name="error_upload_failed">Failed to upload story</string>
+
+    <string name="menu_title_logout">Logout</string>
+    <string name="menu_title_maps">Maps</string>
+
+    <string name="content_desc_user_icon">User Icon</string>
+    <string name="content_desc_story_image">Story Image</string>
+    <string name="content_desc_fab_add_story">Add Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="desc_address">Address: %1$s</string>
+
+</resources>
